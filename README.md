@@ -1,6 +1,6 @@
 # Dessert NFT - Mood-Based NFT Project
 
-**Dessert NFT** is a blockchain-based project built with **Foundry**, featuring two types of NFTs: `BasicNft` and `MoodNft`.This is a project for learning. You can find the corresponding courses <a herf="https://updraft.cyfrin.io/courses/advanced-foundry">here</a>.
+**Dessert NFT** is a blockchain-based project built with **Foundry**, featuring two types of NFTs: `BasicNft` and `MoodNft`.This is a project for learning. You can find the corresponding courses <a href="https://updraft.cyfrin.io/courses/advanced-foundry">here</a>.
 
 - **BasicNft**: A simple NFT implementation with metadata stored on IPFS.
 - **MoodNft**: A dynamic NFT that reflects different moods (e.g., Happy, Sad, Angry, Excited, Bored) and is fully on-chain, including metadata and SVG images.
